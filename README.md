@@ -16,7 +16,7 @@ PumpFi Chain is designed to support multiple blockchain networks and configurati
 | **Ticker** | **Consensus**           | **Network**                       | **PumpFi Chain** | **Ethereum/Go-Ethereum** |
 |------------|-------------------------|-----------------------------------|------------------|--------------------------|
 | PMP        | 🔗 Proof of Work        | PumpFi Chain Testnet             | ✅ Supported     |                          |
-| ETC        | 🔗                     | Ethereum Classic                 | ✅ Supported     |                          |
+| ETC        | 🔗 Proof of Work          | Ethereum Classic                 | ✅ Supported     |                          |
 | ETH        | 🔗                     | Ethereum (Foundation)            | ✅ Supported     | ✅ Supported             |
 | MORDOR     | 🔗                     | Mordor (ETH PoW Testnet)         | ✅ Supported     |                          |
 | GOERLI     | 🤝 Proof of Authority   | Goerli (ETH PoA Testnet)         | ✅ Supported     | ✅ Supported             |
