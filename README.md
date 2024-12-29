@@ -13,16 +13,22 @@ Key Highlights
 Supported Networks
 PumpFi Chain is designed to support multiple blockchain networks and configurations. Here is a comparison of networks compatible with the geth program:
 
-Ticker	Consensus	Network	PumpFi Chain	Ethereum/Go-Ethereum
-PMP	🔗 Proof of Work	PumpFi Chain Mainnet	✅ Supported	
-ETC	🔗	Ethereum Classic	✅ Supported	
-ETH	🔗	Ethereum (Foundation)	✅ Supported	✅ Supported
-MORDOR	🔗	Mordor (ETH PoW Testnet)	✅ Supported	
-GOERLI	🤝 Proof of Authority	Goerli (ETH PoA Testnet)	✅ Supported	✅ Supported
-KOVAN	🤝	Kovan (ETH PoA Testnet)	Not Supported	
-Private	🔗	Ephemeral Development PoA Network	✅ Supported	✅ Supported
-🔗 Proof of Work: Decentralized consensus mechanism.
-🤝 Proof of Authority: Validator-based consensus mechanism.
+| **Ticker** | **Consensus**           | **Network**                       | **PumpFi Chain** | **Ethereum/Go-Ethereum** |
+|------------|-------------------------|-----------------------------------|------------------|--------------------------|
+| PMP        | 🔗 Proof of Work        | PumpFi Chain Mainnet             | ✅ Supported     |                          |
+| ETC        | 🔗                     | Ethereum Classic                 | ✅ Supported     |                          |
+| ETH        | 🔗                     | Ethereum (Foundation)            | ✅ Supported     | ✅ Supported             |
+| MORDOR     | 🔗                     | Mordor (ETH PoW Testnet)         | ✅ Supported     |                          |
+| GOERLI     | 🤝 Proof of Authority   | Goerli (ETH PoA Testnet)         | ✅ Supported     | ✅ Supported             |
+| KOVAN      | 🤝                     | Kovan (ETH PoA Testnet)          | Not Supported    |                          |
+| Private    | 🔗                     | Ephemeral Development PoA Network| ✅ Supported     | ✅ Supported             |
+
+---
+
+### Notes:
+- 🔗 **Proof of Work**: Decentralized consensus mechanism.
+- 🤝 **Proof of Authority**: Validator-based consensus mechanism.
+
 Documentation
 Comprehensive guides and API references for PumpFi Chain:
 
