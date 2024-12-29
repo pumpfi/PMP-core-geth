@@ -1,3 +1,6 @@
+![PUMPFI TESTNET](https://pumpfi.me/assets/github.png)
+
+
 PumpFi Chain: A Decentralized Ethereum-Compatible Blockchain
 A robust blockchain solution powered by ethereum/go-ethereum, customized to meet the needs of a diverse ecosystem.
 
